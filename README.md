@@ -137,3 +137,6 @@ correo: String (Requerido)
 Ej. (http://mybankinternal.herokuapp.com/ejecutivos/adultonn/1037008984?token=TOKEN)
 
 
+### Estado del proyecto en CodeShip
+[ ![Codeship Status for luisdaocho/myAppBank](https://codeship.com/projects/bc8a67e0-0213-0134-8414-5a840fcbac76/status?branch=master)](https://codeship.com/projects/153563)
+
